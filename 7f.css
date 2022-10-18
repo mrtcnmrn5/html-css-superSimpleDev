@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.mail {
+  font-size: 12px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+}
+.search {
+  font-size: 14px;
+  width: 280px;
+  height: 30px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+  border-radius: 2px;
+}
+.click {
+  font-size: 12px;
+  color: rgb(49, 49, 49);
+  margin-bottom: 10px;
+  margin-left: 10px;
+}
+.blue {
+  width: 280px;
+  height: 30px;
+  color: white;
+  background-color: rgba(19, 86, 231, 0.789);
+  margin-left: 10px;
+  border: none;
+  border-radius: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
