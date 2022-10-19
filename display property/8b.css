@@ -1,0 +1,9 @@
+.chat {
+  width: 200px;
+  display: inline-block;
+}
+.chat,
+.yes,
+.no {
+  vertical-align: middle;
+}
